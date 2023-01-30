@@ -65,7 +65,7 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:$lifecycle_version")
 
     //Color picker
-//    implementation ("petrov.kristiyan:colorpicker-library:1.1.10")
+    implementation "com.github.skydoves:colorpickerview:2.2.4"
 
 }
 
